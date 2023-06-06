@@ -4,7 +4,7 @@ _<h4 align="center">A GUI library for opencv's frames.</h4>_
 
 CVermeer, who's name is inspired by renowned artist [Johannes Vermeer](https://fr.wikipedia.org/wiki/Johannes_Vermeer), is a library based on [OpenCV](https://opencv.org/) to ease the process of adding shapes onto opencv's frames.
 
-The library manipulates `Shapes`, which contains other shapes, and can be drawn onto the frame through the `draw()` method, that each shape impements.
+The library manipulates `Widgets`, which contains other widgets, and can be drawn onto the frame through the `draw()` method, that each widget impements.
 
 ___
 

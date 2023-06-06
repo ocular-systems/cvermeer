@@ -1,1 +1,1 @@
-from .shape import Shape
+from .point import Point
